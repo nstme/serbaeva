@@ -1,5 +1,5 @@
-# Personal Website 
+# serbaeva.com
 
-## Coming soon
+## Profile website
 
-Current WIP built from scratch with HTML, CSS and love.
+Current WIP built from scratch with HTML, CSS, love, and deployed on Netlify.
